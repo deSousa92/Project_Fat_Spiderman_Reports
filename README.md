@@ -17,3 +17,22 @@ The character’s main abilities were narrowed down to a set of two; a grappling
 Having two programmers with previous game making experience, Sam and Mike took responsibility for creating the core game mechanics that we would be using for the game. This allowed our team to subdivide into two. We scheduled weekly meetings up so that we could assign our weekly tasks and discuss any ideas or problems that may have arisen. 
 
 The teams kept each other updated with what they were doing at all times to avoid people overwritting eachother's work. Luckily for our team, Sam and Mike were always available to sort any problems that we may have encountered, or issues with the merging platform. In the end our team leaders found a good way to manage our resources and a good chemistry was evident in those that were most involved.
+
+#### **ART & MODELLING**
+
+While our programmers sorted the core mechanics of the game I began working on the level design as well as sketching out and modelling the most important assets for the game. 
+
+#### **WEAPON MODEL**
+
+The Fat Spiderman character was visualised owning a sort of ‘fat gun’ that would allow him to suck fat from nearby fat sources. The gun itself was inspired in vacuum cleaners, from old to contemporary, and the character would have to use both of his hands to carry it.
+It would feature a grapple launcher under the main barrel from where it would shoot the grapple that would allow him to swing away. 
+
+
+
+
+
+![GitHub Logo](/images/logo.png)
+
+
+
+
