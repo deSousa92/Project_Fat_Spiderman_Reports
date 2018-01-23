@@ -31,7 +31,6 @@ It would feature a grapple launcher under the main barrel from where it would sh
 
 
 
-![GitHub Logo](/images/logo.png)
 
 
 
