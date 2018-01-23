@@ -31,6 +31,9 @@ It would feature a grapple launcher under the main barrel from where it would sh
 ![fat_spiderman vaccuum hooks](https://user-images.githubusercontent.com/32702381/35276286-d12a9338-003a-11e8-8bb7-989a43492a2c.jpg)
 
 
+As we developed the game we came up with the idea of implementing a visual cue that would further evidence the player getting fatter. To achieve such effect, we changed the weapons design so that the characters right arm would be more visible. 
+This change led to a more open style weapon that wrapped up around the characters arm with a frame-like support, with a sort of prosthetic look. This visual cue would display the arm getting fatter and bigger as the player injected fat, or skinnier when shedding weight. 
+
 
 
 
