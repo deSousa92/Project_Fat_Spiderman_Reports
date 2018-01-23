@@ -37,4 +37,5 @@ This change led to a more open style weapon that wrapped up around the character
 
 ![final_version_nobevel](https://user-images.githubusercontent.com/32702381/35276502-81ad821a-003b-11e8-9ae8-e4520d206b32.jpg)
 
+![final_version_bevelled](https://user-images.githubusercontent.com/32702381/35276537-9c13d4d8-003b-11e8-93e8-4bc61bb4c26d.jpg)
 
