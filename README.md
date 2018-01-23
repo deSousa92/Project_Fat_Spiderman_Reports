@@ -1,4 +1,5 @@
 # Project_Fat_Spiderman_Report
+
 #### **INITIAL IDEA / CONCEPT OF THE PROJECT**
 
 The initial concept for this project was based on puzzle and physics gameplay. Early brainstorming had been influenced by puzzle games such as Portal and Inside. Our idea started focusing on the games physics and its possibilities for puzzle making and solving. 
@@ -74,6 +75,8 @@ This was the most basic modular set we used for the early blocked out stages of 
 
 ##### Breakable Wall Mesh
 
+For the breakable wall I decided to have a pre-defined impact zone that would become the destructible mesh. This was done to keep the walls integrity once the player would break through it. 
+
 ![breakable wall](https://user-images.githubusercontent.com/32702381/35276929-00fe0584-003d-11e8-9b3b-947bfd6893d2.jpg)
 
 ![wall](https://user-images.githubusercontent.com/32702381/35276943-085d362e-003d-11e8-9269-12f56e73f96a.jpg)
@@ -107,20 +110,23 @@ One of the biggest challenges I encountered during this project was the blueprin
 Luckily for our team we had two members with previous coding backgrounds and during task assignments and development planning we agreed in having them perform the heavy lifting for the core game mechanics. Those with less programming experience like me would come in at a stage where less complex programming would need to be done.
 As a result of this most of my programming was dedicated to smaller scale details and aspects of the game such as material creation after importing textures, sound cues for certain events, rope mesh display as well the breakable wall.
 
-![material](https://user-images.githubusercontent.com/32702381/35277159-afcb0828-003d-11e8-9509-dfc9e9db3e84.jpg)
-
-
 ##### Material creation after import
 
 There were only a few nods to connect in order to assign the material its normal map and occlusion map, pretty simple and straightforward.
+
+![material](https://user-images.githubusercontent.com/32702381/35277159-afcb0828-003d-11e8-9509-dfc9e9db3e84.jpg)
+
+##### Sound Cues
+
+Some of the sound cues were ready to be thrown into blueprints while others I had to mix in other to get the desired effect such as the wall impact thud combined with the bricks breaking off of it. I also had to cut and loop some of the vacuum cleaner sounds in an external application called Audacity.
+
 
 ![sound_cue](https://user-images.githubusercontent.com/32702381/35277170-b64fda84-003d-11e8-8129-4a2a1c215fc2.jpg)
 
 ![sound_cue_mixer for wall and player impact](https://user-images.githubusercontent.com/32702381/35277171-b6751c90-003d-11e8-9943-92c74b76d2f8.jpg)
 
-##### Sound Cues
 
-Some of the sound cues were ready to be thrown into blueprints while others I had to mix in other to get the desired effect such as the wall impact thud combined with the bricks breaking off of it. I also had to cut and loop some of the vacuum cleaner sounds in an external application called Audacity.
+
 
 ![gun_sound_cue](https://user-images.githubusercontent.com/32702381/35277190-cfdff718-003d-11e8-94df-1f4c8dfcccd5.jpg)
 
