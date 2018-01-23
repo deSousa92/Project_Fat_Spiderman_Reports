@@ -35,17 +35,23 @@ It would feature a grapple launcher under the main barrel from where it would sh
 As we developed the game we came up with the idea of implementing a visual cue that would further evidence the player getting fatter. To achieve such effect, we changed the weapons design so that the characters right arm would be more visible. 
 This change led to a more open style weapon that wrapped up around the characters arm with a frame-like support, with a sort of prosthetic look. This visual cue would display the arm getting fatter and bigger as the player injected fat, or skinnier when shedding weight. 
 
+Non-bevelled model
 
 ![final_version_nobevel](https://user-images.githubusercontent.com/32702381/35276502-81ad821a-003b-11e8-9ae8-e4520d206b32.jpg)
 
+Bevelled model
+
 ![final_version_bevelled](https://user-images.githubusercontent.com/32702381/35276537-9c13d4d8-003b-11e8-93e8-4bc61bb4c26d.jpg)
 
+UV mapping
 
 ![final_version_uv](https://user-images.githubusercontent.com/32702381/35276587-c23a3a94-003b-11e8-84e3-01f95fa34338.jpg)
 
+Rendered
+
 ![render final](https://user-images.githubusercontent.com/32702381/35276593-c8654616-003b-11e8-8b20-e10ebcf6876b.jpg)
 
-##### Final Model
+##### Final Model Texture and Rendered
 ![render](https://user-images.githubusercontent.com/32702381/35276643-ec5c8890-003b-11e8-815d-aa2dca68e49b.jpg)
 
 #### **MODULAR SET**
