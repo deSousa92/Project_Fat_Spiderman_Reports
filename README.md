@@ -47,3 +47,24 @@ This change led to a more open style weapon that wrapped up around the character
 ##### Final Model
 ![render](https://user-images.githubusercontent.com/32702381/35276643-ec5c8890-003b-11e8-815d-aa2dca68e49b.jpg)
 
+#### **MODULAR SET**
+
+The artistic style of the modular set had been initially defined by the sci-fi, lab-like environment that we were trying to achieve. Using an urban-futuristic suprematist architectural style and mixing it with light sources and pipes we put managed to translate our ideas successfully. One of the reasons for this sort of austere design was to avoid players to get distracted by decorative and non-functional elements and encourage a linearity that would come naturally to the player.
+The other reason was that we knew we were not going to have enough time to make a detailed scene with outstanding looks so the whole lab environment suited this purpose very well.
+I initially set each piece to be 1x1 meters but as it proved to be too small I settled for a 1.4x1.4 meters. It made quite a difference as the 1x1 modular set just look too narrow and tiny when used in the game world. 
+
+![modular set basic](https://user-images.githubusercontent.com/32702381/35276715-32ce801c-003c-11e8-88a2-53a5a166cc99.jpg)
+
+This was the most basic modular set we used for the early blocked out stages of the game.
+
+![modular set 2](https://user-images.githubusercontent.com/32702381/35276724-3b74b240-003c-11e8-94d6-1e764df05b4d.jpg)
+
+
+![modular set 3](https://user-images.githubusercontent.com/32702381/35276730-4089efd4-003c-11e8-9e6c-209ffa556ee9.jpg)
+
+![modular set final top view](https://user-images.githubusercontent.com/32702381/35276769-67f946be-003c-11e8-98be-d139c89c9eab.jpg)
+
+![modular set final perspective](https://user-images.githubusercontent.com/32702381/35276774-6f21fb98-003c-11e8-9f61-f4e08e17bd49.jpg)
+
+
+
