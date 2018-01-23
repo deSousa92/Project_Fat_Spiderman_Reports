@@ -10,3 +10,10 @@ Our unique selling point was well-defined by the grappling hook and we soon bega
 
 The concept became known as the Fat Spiderman project, a first-person puzzle game where the players objective is to solve platformer puzzles to go from an area to the other. The puzzles are based on the swinging and on the weight of the player, who will have to exhibit good control of the characters abilities and movement to make it through the challenges.
 The character’s main abilities were narrowed down to a set of two; a grappling hook that serves as a movement enhancer, allowing the player to swing over greater distances, and an ability to absorb and/or release items that would affect the character’s weight and consequently its movement abilities but also his strength. 
+
+
+#### **TEAMWORK**
+
+Having two programmers with previous game making experience, Sam and Mike took responsibility for creating the core game mechanics that we would be using for the game. This allowed our team to subdivide into two. We scheduled weekly meetings up so that we could assign our weekly tasks and discuss any ideas or problems that may have arisen. 
+
+The teams had to keep each other updated with what they were doing at all times to avoid people working on the same thing. Luckily for our team, Sam and Mike were always available to sort any problems that we may have encountered, or issues with the merging platform. In the end our team leaders found a good way to manage our resources and a good chemistry was evident in those that were most involved.
