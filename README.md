@@ -28,7 +28,7 @@ The Fat Spiderman character was visualised owning a sort of ‘fat gun’ that w
 It would feature a grapple launcher under the main barrel from where it would shoot the grapple that would allow him to swing away. 
 
 
-
+![fat_spiderman vaccuum hooks](https://user-images.githubusercontent.com/32702381/35276286-d12a9338-003a-11e8-8bb7-989a43492a2c.jpg)
 
 
 
