@@ -35,6 +35,6 @@ As we developed the game we came up with the idea of implementing a visual cue t
 This change led to a more open style weapon that wrapped up around the characters arm with a frame-like support, with a sort of prosthetic look. This visual cue would display the arm getting fatter and bigger as the player injected fat, or skinnier when shedding weight. 
 
 
-
+![final_version_nobevel](https://user-images.githubusercontent.com/32702381/35276502-81ad821a-003b-11e8-9ae8-e4520d206b32.jpg)
 
 
