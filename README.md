@@ -60,12 +60,15 @@ The artistic style of the modular set had been initially defined by the sci-fi, 
 The other reason was that we knew we were not going to have enough time to make a detailed scene with outstanding looks so the whole lab environment suited this purpose very well.
 I initially set each piece to be 1x1 meters but as it proved to be too small I settled for a 1.4x1.4 meters. It made quite a difference as the 1x1 modular set just look too narrow and tiny when used in the game world. 
 
+This was the most basic modular set we used for the early blocked out stages of the game.
+
 ![modular set basic](https://user-images.githubusercontent.com/32702381/35276715-32ce801c-003c-11e8-88a2-53a5a166cc99.jpg)
 
-This was the most basic modular set we used for the early blocked out stages of the game.
+Developing
 
 ![modular set 2](https://user-images.githubusercontent.com/32702381/35276724-3b74b240-003c-11e8-94d6-1e764df05b4d.jpg)
 
+Eventually,
 
 ![modular set 3](https://user-images.githubusercontent.com/32702381/35276730-4089efd4-003c-11e8-9e6c-209ffa556ee9.jpg)
 
